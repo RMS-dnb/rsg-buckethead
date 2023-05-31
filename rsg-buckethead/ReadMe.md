@@ -2,7 +2,7 @@ RSG-BUCKETHEAD
  Mad Respects to the original Script ['cad-headbag' for qb-core fiveM.](https://github.com/cadburry6969/cad-headbag)
  Fully Converted to RSG by RMS_dnb
  
-https://www.youtube.com/watch?v=ybigKbIy5A4
+[https://www.youtube.com/watch?v=ybigKbIy5A4](https://youtu.be/ybigKbIy5A4)
 https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
  
 
