@@ -1,6 +1,6 @@
 RSG-BUCKETHEAD
- Mad Respects to the original Script 'cad-headbag' for qb-core fiveM.
- Fully Converted by RMS_dnb
+ Mad Respects to the original Script ['cad-headbag' for qb-core fiveM.](https://github.com/cadburry6969/cad-headbag)
+ Fully Converted to RSG by RMS_dnb
  
  https://medal.tv/games/red-dead-2/clips/1bNF5aCRUjyG30/d13377bgHMLN?invite=cr-MSxGb2ksMTg4NTIwODY1LA
  https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
@@ -19,7 +19,7 @@ Place a bucket on someones head so they cant see. Each bucket has 5 uses before 
 ["buckethead"] = { ["name"] = "buckethead", ["label"] = "Bucket for head", ["weight"] = 400, ["type"] = "item", ["image"] = "headbag.png", ["unique"] = true, ["useable"] = true, ["shouldClose"] = true, ["combinable"] = nil, ["description"] = "A bucket to put over someone elses head and make them blind." },
 ```
 
-> Add `headbag.png` to `rsg-inventory/html/images`
+> Add `buckethead.png` to `rsg-inventory/html/images`
 
 > Add the below code in `rsg-inventory/html/js` under `FormatItemInfo` function
 ```lua
