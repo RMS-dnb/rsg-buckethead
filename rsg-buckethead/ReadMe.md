@@ -1,6 +1,10 @@
 RSG-BUCKETHEAD
  Mad Respects to the original Script 'cad-headbag' for qb-core fiveM.
- Fully Converted by RMS  
+ Fully Converted by RMS_dnb
+ 
+ https://medal.tv/games/red-dead-2/clips/1bNF5aCRUjyG30/d13377bgHMLN?invite=cr-MSxGb2ksMTg4NTIwODY1LA
+ https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
+ 
 
 #Info
 Place a bucket on someones head so they cant see. Each bucket has 5 uses before it deletes from your inventory.  Please add everything below so the script works properly.  You can see the Durability of the bucket each time you use it, located in your inventory if you hover over the item.
