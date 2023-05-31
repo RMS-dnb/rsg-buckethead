@@ -5,7 +5,7 @@ RSG-BUCKETHEAD
  https://medal.tv/games/red-dead-2/clips/1bNF5aCRUjyG30/d13377bgHMLN?invite=cr-MSxGb2ksMTg4NTIwODY1LA
  https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
  
-
+<iframe width='640' height='360' style='border: none;' src='https://medal.tv/games/red-dead-2/clip/1bNF5aCRUjyG30/V8sLrCJ4azg3?invite=cr-MSxWeEksMTg4NTIwNjM0LA' allow='autoplay' allowfullscreen></iframe>
 #Info
 Place a bucket on someones head so they cant see. Each bucket has 5 uses before it deletes from your inventory.  Please add everything below so the script works properly.  You can see the Durability of the bucket each time you use it, located in your inventory if you hover over the item.
 
