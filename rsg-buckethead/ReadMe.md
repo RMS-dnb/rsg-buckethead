@@ -2,8 +2,8 @@ RSG-BUCKETHEAD
  Mad Respects to the original Script ['cad-headbag' for qb-core fiveM.](https://github.com/cadburry6969/cad-headbag)
  Fully Converted to RSG by RMS_dnb
  
- https://medal.tv/games/red-dead-2/clips/1bNF5aCRUjyG30/d13377bgHMLN?invite=cr-MSxGb2ksMTg4NTIwODY1LA
- https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
+https://www.youtube.com/watch?v=ybigKbIy5A4
+https://cdn.discordapp.com/attachments/1100113490150174821/1113233762831044668/Screenshot_1.png
  
 
 #Info
